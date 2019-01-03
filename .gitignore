@@ -1,0 +1,4 @@
+.vscode
+senti-analys-env
+*.pyc
+__pycache__
